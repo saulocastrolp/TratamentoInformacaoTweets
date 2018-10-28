@@ -1,4 +1,7 @@
 *.pdf
 *.txt
+*.zip
+*.tar.gz
+regiao.old.py
 .vscode
 __pycache__
